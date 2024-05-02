@@ -66,6 +66,7 @@ namespace ProyectoSprintUnoPrueba
         private void FrmLogin_Load(object sender, EventArgs e)
         {
             MessageBox.Show("Este es mi primer commit de git");
+            MessageBox.Show("Este es mi segundo commit de git");
         }
     }
 }
